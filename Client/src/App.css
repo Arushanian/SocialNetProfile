@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+
+.social__layout {
+    background: #42974e;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 0 29px;
+}
+
+.social__content {
+    padding-top: 64px;
+}
+
+.rootLayout {
+    height: 100vh;
+}
